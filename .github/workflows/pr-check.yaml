@@ -35,6 +35,7 @@ jobs:
             refactor
             test
             chore
+            build
           scopes: |
             api
             ui
